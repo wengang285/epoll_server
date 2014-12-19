@@ -1,0 +1,12 @@
+[2014-12-18 19:13:53] [ERROR] [pid 30285] [main_fork.php:43]  is not a dir
+[2014-12-18 19:14:20] [ERROR] [pid 30645] [main_fork.php:43] /data/home/gavinwen/ckv_update/2554 is not a dir
+[2014-12-18 19:16:13] [ERROR] [pid 31175] [main_fork.php:33] filePath:
+[2014-12-18 19:16:13] [ERROR] [pid 31175] [main_fork.php:45] /data/home/gavinwen/ckv_update/2554 is not a dir
+[2014-12-18 19:21:38] [ERROR] [pid 32307] [main_fork.php:32] filePath:/data/home/gavinwen/ckv_update/2554[2014-12-18 19:21:38] [ERROR] [pid 32307] [main_fork.php:44] /data/home/gavinwen/ckv_update/2554 is not a dir
+[2014-12-18 19:21:49] [ERROR] [pid 32312] [main_fork.php:32] filePath:/data/home/gavinwen/ckv_update/2554
+[2014-12-18 19:21:49] [ERROR] [pid 32312] [main_fork.php:44] /data/home/gavinwen/ckv_update/2554 is not a dir
+[2014-12-18 19:22:15] [ERROR] [pid 32682] [main_fork.php:32] filePath:/data/home/gavinwen/ckv_update/2554
+[2014-12-18 19:22:15] [ERROR] [pid 32682] [main_fork.php:34] service:cf
+[2014-12-18 19:22:15] [ERROR] [pid 32682] [main_fork.php:35] iActId:2314
+[2014-12-18 19:22:15] [ERROR] [pid 32682] [main_fork.php:36] iId:2554
+[2014-12-18 19:22:15] [ERROR] [pid 32682] [main_fork.php:44] /data/home/gavinwen/ckv_update/2554 is not a dir
